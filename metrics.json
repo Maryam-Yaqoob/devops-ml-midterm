@@ -2,6 +2,6 @@
     "student_id": "FA23-BAI-025",
     "dataset_version": "v1",
     "model_type": "logistic_regression",
-    "accuracy": 0.7129,
-    "samples": 501
+    "accuracy": 0.8458,
+    "samples": 1001
 }
